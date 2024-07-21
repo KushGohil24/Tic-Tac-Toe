@@ -46,6 +46,7 @@ h1{
     background-color: #93B7BE;
 }
 .game > button:hover{
+    cursor: pointer;
     background-color: #8cafb6;
 }
 .reset-btn{
@@ -58,6 +59,7 @@ h1{
     font-size: large;
 }
 .reset-btn:hover{
+    cursor: pointer;
     background-color: #9b8dab;
 }
 #new-btn{
@@ -70,6 +72,7 @@ h1{
     font-size: large;
 }
 #new-btn:hover{
+    cursor: pointer;
     background-color: #9b8dab;
 }
 #msg{
